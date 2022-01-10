@@ -1,0 +1,4 @@
+.porta-import-button:hover, .porta-import-button:focus {
+    box-shadow: none;
+    text-shadow: 0 0 5px red;
+}

@@ -1,0 +1,23 @@
+{
+    "name": "port-a-foundry",
+    "title": "port-a-foundry",
+    "description": "Exporter module for foundry data",
+    "authors": [
+        {"name": "Wouter"}
+    ],
+    "version": "0.1",
+    "minimumCoreVersion": "0.8.8",
+    "scripts": [
+        "scripts/porta.js"
+    ],
+    "languages":[
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "styles": [
+        "styles/porta.css"
+    ]
+}

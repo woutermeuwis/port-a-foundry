@@ -1,0 +1,14 @@
+{
+    "portafoundry":{
+        "export-button-text": "export to json",
+        "import-button-text": "import from json",
+        "import-dialog-title": "Import data",
+        "import-dialog-text1": "You may import data for item folders from an exported JSON file",
+        "import-dialog-text2": "This operation will update the data for items, and cannot be undone.",
+        "import-source-data-label": "Source Data",
+        "import-confirm-button-text": "Import",
+        "cancel-button-text": "Cancel",
+        "no-file-for-upload": "You did not upload a data file!"
+
+    }
+}
