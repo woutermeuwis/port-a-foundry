@@ -3,10 +3,23 @@
     "title": "port-a-foundry",
     "description": "Exporter module for foundry data",
     "authors": [
-        {"name": "Wouter"}
+        {
+            "name": "Wouter Meuwis",
+            "url": "https://github.com/woutermeuwis",
+            "discord": "Wouter#6969"
+        }
     ],
-    "version": "0.1",
+    "version": "this is auto replaced!",
+    "url": "this is auto replaced!",
+    "manifest": "this is auto replaced!",
+    "download": "this is auto replaced!",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
     "minimumCoreVersion": "0.8.8",
+    "compatibleCoreVersion": "0.8.8",
+    "dependencies": [],
+    "conflicts": [],
+    "esmodules":[],
     "scripts": [
         "scripts/porta.js"
     ],
@@ -19,5 +32,6 @@
     ],
     "styles": [
         "styles/porta.css"
-    ]
+    ],
+    "media": []
 }
